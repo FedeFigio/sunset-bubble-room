@@ -59,7 +59,7 @@ export default function Servizi() {
           <div className="absolute inset-0 bg-black/60" />
         </div>
         <div className="relative z-10 text-center text-white">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-white drop-shadow-lg">I Nostri Servizi</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 !text-white drop-shadow-lg">I Nostri Servizi</h1>
           <p className="text-xl max-w-2xl mx-auto text-gray-100 drop-shadow-md">
             Scopri tutti i servizi esclusivi per rendere il tuo soggiorno indimenticabile
           </p>

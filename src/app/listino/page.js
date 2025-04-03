@@ -58,7 +58,7 @@ export default function Listino() {
           <div className="absolute inset-0 bg-black/40" />
         </div>
         <div className="relative z-10 text-center text-white">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Listino Prezzi</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 !text-white">Listino Prezzi</h1>
           <p className="text-xl max-w-2xl mx-auto">
             Scegli la soluzione perfetta per il tuo soggiorno da sogno
           </p>

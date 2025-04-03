@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         
         <div className="relative z-10 text-center text-white px-4">
-          <h1 className="text-5xl md:text-6xl font-bold mb-6 drop-shadow-lg">
+          <h1 className="text-5xl md:text-6xl font-bold mb-6 drop-shadow-lg !text-white">
             Dormi Sotto le Stelle
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto drop-shadow-md">

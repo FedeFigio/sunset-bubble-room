@@ -4,7 +4,7 @@ export default function Prenota() {
   return (
     <div className="min-h-screen py-20 px-4">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-bold text-center mb-8">
+        <h1 className="text-4xl md:text-5xl font-bold text-center mb-8 !text-white">
           Prenota la Tua Bubble Room
         </h1>
         <p className="text-xl text-center text-gray-600 mb-12">

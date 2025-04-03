@@ -51,7 +51,7 @@ export default function About() {
           <div className="absolute inset-0 bg-black/60" />
         </div>
         <div className="relative z-10 text-center text-white">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Chi Siamo</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4 !text-white">Chi Siamo</h1>
           <p className="text-xl max-w-2xl mx-auto">
             Scopri la storia e le persone dietro l'esperienza unica di Bubble Room
           </p>
