@@ -89,7 +89,7 @@ export default function Navbar() {
                 Home
               </Link>
               <Link
-                href="/chi-siamo"
+                href="/about"
                 className="block px-3 py-2 text-white font-medium hover:text-emerald-400 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
